@@ -1,1 +1,1 @@
-console.log(configs for the project resides here)
+console.log('configs for the project resides here')
